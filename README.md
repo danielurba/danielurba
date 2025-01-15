@@ -6,7 +6,7 @@ Sou um desenvolvedor de software apaixonado por criar soluções inovadoras e ef
 - JavaScript, Python, React, Node.js, Docker, Php, etc.
 
 ## 📚 Formação
-- Estudando Bacharelado em Engenharia de Software pela FAG.
+- Formado em Bacharelado em Engenharia de Software pela FAG.
 
 ## 💼 Experiência Profissional
 - Desenvolvedor Full Stack com 1 anos de experiência.
@@ -30,7 +30,7 @@ Sou um desenvolvedor de software apaixonado por criar soluções inovadoras e ef
 ---
 
 ### Sobre Mim
-- **Idade**: 26
+- **Idade**: 27
 - **Hobbies**: Jogos, Series, Músicas, etc.
 
 ---
