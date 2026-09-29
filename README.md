@@ -30,7 +30,7 @@ Sou um desenvolvedor de software apaixonado por criar soluções inovadoras e ef
 ---
 
 ### Sobre Mim
-- **Idade**: 27
+- **Idade**: 29
 - **Hobbies**: Jogos, Series, Músicas, etc.
 
 ---
