@@ -9,7 +9,7 @@ Sou um desenvolvedor de software apaixonado por criar soluções inovadoras e ef
 - Formado em Bacharelado em Engenharia de Software pela FAG.
 
 ## 💼 Experiência Profissional
-- Desenvolvedor Full Stack com 1 anos de experiência.
+- Desenvolvedor Full Stack com mais de 3 anos de experiência.
 
 ## 🌍 Localidade
 - Cascavel - PR, Brasil.
